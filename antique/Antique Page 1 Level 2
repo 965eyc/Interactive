@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1">
+		<title> Antique </title>
+	</head>
+	<body>
+		<p>
+		<h1><b> Antique </b></h1>
+		(latin; antiquus; old)
+		&nbsp; <br>
+		&nbsp; <br>
+		<i> a collectible item desireable because of its
+		&nbsp; <br>
+		&nbsp; <br>
+		<ul>
+		<li> age </li>
+		<li> rarity </li>
+		<li> condition </li>
+		<li> utility </li>
+		<li> unique features </li>
+		</i>
+		</ul>
+		&nbsp; <br>
+		<p><div> It is an object which has reached an age which makes it a 
+		witness of a previous era in human </div></p>
+		<p>
+		In a consumer society, an antique is above all an object whose 
+		atypical construction and age give it a market value superior to 
+		similar objects of recent manufacturing.
+		</p>
+	</body>
+</html>
